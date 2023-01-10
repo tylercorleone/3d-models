@@ -1,3 +1,4 @@
 *.blend1
 *_autosave*
+.DS_Store
 
